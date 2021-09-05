@@ -1,4 +1,11 @@
-# VR-Game
+# The THEIVES
+### :wrench: 소개
+안드로이드 기반 VR 게임입니다.
+술래와 도망치는 팀원2명까지 동시접속하여 술래잡기를 하는 게임입니다.
+
+글쓴이는 캐릭터 및 맵 구현 캐릭터 동작 구현을 맡았습니다.
+
+#### 아래 사진을 누르면 유튜브 동영상으로 넘어가게 됩니다.
 
 [![Video Label](https://user-images.githubusercontent.com/48902047/132133272-7e92bf47-60c0-4081-b5e1-67477ec3c827.png)](https://youtu.be/er6FJqSSSno)
 
